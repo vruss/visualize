@@ -30,9 +30,28 @@
     border: solid 1px;
 }
 .media img {
-    width: 100px;
-    /* height: 50px; */
+    width: 15%;
 }
 .media p {
     margin-bottom: 0;
 }
+
+
+@media (max-width: 992px) { 
+    .media img {
+        width: 20%;
+    }
+}
+
+@media (max-width: 768px) { 
+    .media img {
+        width: 25%;
+    }
+}
+
+@media (max-width: 576px) { 
+    .media img {
+        width: 30%;
+    }
+}
+
