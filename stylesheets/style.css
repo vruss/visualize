@@ -24,3 +24,15 @@
     background-color: #5ba7e2;
     color: white;
 }
+
+.media {
+    padding: 5%;
+    border: solid 1px;
+}
+.media img {
+    width: 100px;
+    /* height: 50px; */
+}
+.media p {
+    margin-bottom: 0;
+}
