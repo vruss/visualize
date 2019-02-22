@@ -2,6 +2,10 @@
     margin: 0;
 }
 
+.jumbotron {
+    padding: 1rem;
+}
+
 #tables {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse: collapse;
