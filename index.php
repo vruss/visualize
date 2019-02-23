@@ -35,7 +35,7 @@
 				<div class="media-body">
 					<h4 class="mt-0 mb-1">Pop</h4>
                <p>Pop operationen tar bort det översta elementet ur stacken</p>
-               <p>Exempel av Push operationen i några olika språk:</p>
+               <p>Exempel av Pop operationen i några olika språk:</p>
                <ul>
                   <li>Python: <code>stack.pop()</code></li>
                   <li>Java: <code>stack.pop();</code></li>
@@ -48,7 +48,7 @@
 				<div class="media-body">
 					<h4 class="mt-0 mb-1">Peek</h4>
                <p>Tittar på det översta elementet i stacken utan att ta bort det</p>
-               <p>Exempel av Push operationen i olika språk:</p>
+               <p>Exempel av Peek operationen i olika språk:</p>
                <ul>
                   <li>Python: <code>stack[index]</code></li>
                   <li>Java: <code>stack.peek();</code></li>
